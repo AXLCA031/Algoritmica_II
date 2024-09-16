@@ -1,3 +1,6 @@
+//Alumno: Cueva Alcala Axel Andree
+//Código: 23200093
+
 import java.util.Scanner;
 
 class Alumno {
